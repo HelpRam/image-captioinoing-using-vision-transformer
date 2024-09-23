@@ -1,0 +1,44 @@
+/* Style the main body of the app */
+.stApp {
+    background-color: #F0F8FF; /* Custom background color */
+}
+
+/* Style for buttons */
+button {
+    background-color: #FF6347 !important;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 12px 24px !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #FF4500 !important;
+    transform: scale(1.05);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Add padding to the file uploader */
+.css-1y4p8pa {
+    padding-top: 20px;
+}
+
+/* Centering images */
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style captions */
+h3 {
+    color: #32CD32 !important;
+    font-family: 'Arial', sans-serif;
+}
+
+p {
+    font-size: 22px;
+    font-weight: bold;
+    color: #00008B;
+}
