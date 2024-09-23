@@ -1,1 +1,1 @@
-# image-captioinoing-using-vision-transformer
+# image-captioning-using-vision-transformer
